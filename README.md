@@ -7,23 +7,18 @@
 
 A new Flutter project created with https://flutlab.io
 
-## Getting Started
+## Documentation :
 
-This project is a starting point for a Flutter application.
+"MyWallet" is a budget control mobile application that allows users to track their daily, monthly, and yearly spending. The key features of the app include:
 
-A few resources to get you started if this is your first Flutter project:
+-Expense tracking: Easily add and categorize all of your daily expenses to get a clear picture of where your money is going.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+-Budget management: Set and monitor your budget goals and see how close you are to reaching them in real-time.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Reports and analytics: Get an in-depth view of your spending patterns with detailed reports and charts, showing your expenses by over time, and compared to your budget.
 
-## Getting Started: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
+==> With "MyWallet", you can stay on top of your finances and make informed decisions about your spending.
 
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+# Used Technologies:
+Flutter
