@@ -13,10 +13,10 @@ A new Flutter project created with https://flutlab.io
 
 -Expense tracking: Easily add and categorize all of your daily expenses to get a clear picture of where your money is going.
 
--Budget management: Set and monitor your budget goals and see how close you are to reaching them in real-time.
+-Income tracking: Easily add and categorize all of your daily incomes to get a clear picture of where your money is going.
+ 
 
--Reports and analytics: Get an in-depth view of your spending patterns with detailed reports and charts, showing your expenses by over time, and compared to your budget.
-
+-Reports and analytics: Get an in-depth view of your spending patterns with detailed reports and charts, showing your expenses by over time.
 
 ==> With "MyWallet", you can stay on top of your finances and make informed decisions about your spending.
 
